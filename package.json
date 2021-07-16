@@ -1,0 +1,17 @@
+{
+  "name": "tedoa-github-selecetmenu",
+  "version": "1.0.0",
+  "description": "Tedoa & ApexSquad",
+  "main": "Tedoa.js",
+  "scripts": {
+    "test": "node. "
+  },
+  "author": "Tedos harikasın bebeğim",
+  "license": "MIT",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1"
+  }
+}
