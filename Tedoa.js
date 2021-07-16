@@ -8,7 +8,8 @@ client.on('ready', () => {
     client.user.setPresence({ activity: { name: "Tedoa ❤️ Yine Discord Botları yine ben", type: "WATCHING"}, status: "online"})
   });
 
-
+ var prefix = "!"
+ 
   client.commands = new Discord.Collection();
 
   const cmds = fs.readdirSync('./Commands').filter(file => file.endsWith('.js'));
