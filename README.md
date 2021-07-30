@@ -1,6 +1,7 @@
 # Select--Menu
-Paylaşalım artık şu menüyü demi 
-Serendia Squad [Serendia Squad](https://discord.gg/pM7XasrWQt)
+Paylaşalım artık şu menüyü demi
+# Serendia Squad
+[Serendia Squad](https://discord.gg/pM7XasrWQt) 
 # Not 
 Birkaç küçük hata bırakıyorum çözerken eğlenebilirsiniz yani inş xd
 
